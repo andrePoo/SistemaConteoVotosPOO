@@ -1,0 +1,12 @@
+com\mycompany\persona\ActaElectoral.class
+com\mycompany\persona\Persona.class
+com\mycompany\persona\Eleccion.class
+com\mycompany\persona\PartidoPolitico.class
+com\mycompany\persona\Candidato.class
+com\mycompany\persona\RegistroOmisos.class
+com\mycompany\persona\Main.class
+com\mycompany\persona\Resultado.class
+com\mycompany\persona\MesaElectoral.class
+com\mycompany\persona\Voto.class
+com\mycompany\persona\Votante.class
+com\mycompany\persona\Operador.class
